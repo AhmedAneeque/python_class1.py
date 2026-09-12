@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 n1,n2=map(int,input("Enter value of Two numbers").split())
 print(f"Addition={n1+n2}")
 print(f"Substraction={n1-n2}")
@@ -9,3 +10,16 @@ print(f"Exponential={n1**2}")
 print(f"Exponential={n2**2}")
 print(f"{n1}square={n1**2}")
 print(f"{n1}restive{n2}={n1**n2}")
+=======
+n1,n2=map(int,input("Enter value of Two numbers").split())
+print(f"Addition={n1+n2}")
+print(f"Substraction={n1-n2}")
+print(f"Multiplication={n1*n2}")
+print(f"Division={n1/n2}")
+print(f"Modulus (Remainder)={n1%n2}")
+print(f"Floor Division={n1//n2}")
+print(f"Exponential={n1**2}")
+print(f"Exponential={n2**2}")
+print(f"{n1}square={n1**2}")
+print(f"{n1}restive{n2}={n1**n2}")
+>>>>>>> d9ee51f0cc5c114ccd731eff574942c21419d1af
